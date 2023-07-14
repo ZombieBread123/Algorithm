@@ -2,7 +2,7 @@
 #include <algorithm>
 
 using namespace std;
-
+//백준 11399번 문제
 bool desc(int a, int b) {
     return a < b;
 }
