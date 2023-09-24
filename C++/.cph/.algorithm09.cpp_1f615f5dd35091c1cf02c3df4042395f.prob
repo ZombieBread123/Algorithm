@@ -1,0 +1,1 @@
+{"name":"Local: algorithm09","url":"e:\\VSC\\C++\\algorithm09.cpp","tests":[{"id":1695543002530,"input":"3\nabc\nz\nstuvwxyz","output":"cba\nz\nzyxwvuts"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\VSC\\C++\\algorithm09.cpp","group":"local","local":true}

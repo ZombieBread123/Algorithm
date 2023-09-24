@@ -1,0 +1,1 @@
+{"name":"Local: algorithm08","url":"e:\\VSC\\C++\\algorithm08.cpp","tests":[{"id":1695542821899,"input":"3\n132 36\n0 12\n132 1","output":"12\n12\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\VSC\\C++\\algorithm08.cpp","group":"local","local":true}
