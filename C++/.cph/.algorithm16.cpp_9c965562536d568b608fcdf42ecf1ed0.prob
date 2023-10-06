@@ -1,0 +1,1 @@
+{"name":"Local: algorithm16","url":"e:\\VSC\\C++\\algorithm16.cpp","tests":[{"id":1696598254418,"input":"3\n1 a\n9 cahfigedb\n26 zyxwvutsrqponmlkjihgfedcba","output":"a\ncahgbdefi\nabcdefghijklmnopqrstuvwxyz"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\VSC\\C++\\algorithm16.cpp","group":"local","local":true}

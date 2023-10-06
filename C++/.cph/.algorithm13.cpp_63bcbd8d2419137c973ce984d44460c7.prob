@@ -1,0 +1,1 @@
+{"name":"Local: algorithm13","url":"e:\\VSC\\C++\\algorithm13.cpp","tests":[{"id":1696419898704,"input":"3\nabc\nz\nrstuvwxyz","output":"4\n1\n362880"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\VSC\\C++\\algorithm13.cpp","group":"local","local":true}
