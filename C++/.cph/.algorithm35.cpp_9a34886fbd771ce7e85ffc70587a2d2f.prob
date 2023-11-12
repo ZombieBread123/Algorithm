@@ -1,0 +1,1 @@
+{"name":"Local: algorithm35","url":"e:\\VSC\\C++\\algorithm35.cpp","tests":[{"id":1699807350232,"input":"3\n4\n20 2 30 12 8\n2\n2 3 4\n25\n4 5 4 4 3 8 10 7 9 8 3 10 11 4 9 11 7 6 5 3 4 5 5 6 3 3","output":"1232\n24\n2814"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\VSC\\C++\\algorithm35.cpp","group":"local","local":true}
